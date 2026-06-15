@@ -14,3 +14,7 @@ env/
 
 # macOS
 .DS_Store
+
+# Project notes — keep local
+DEMO_SCRIPT.md
+BUILD_LOG.md
